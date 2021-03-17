@@ -1,5 +1,5 @@
 // Only change code velow this line
-var num
+
 function myEqualFunction(num){
     if(num === 23){
       return "Equal";
